@@ -1,1 +1,9 @@
-// Actividad 15: Crear un array de palabras y revertir el orden de los elementos.
+// Actividad 15: Rotar los elementos de un array n posiciones.
+
+function rotarArray (array, posiciones) {
+  // Tu código aquí
+}
+
+module.exports = {
+  rotarArray
+};

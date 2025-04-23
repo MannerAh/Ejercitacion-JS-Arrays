@@ -1,1 +1,9 @@
-// Actividad 13: Crear un array de números y calcular la suma de todos los elementos.
+// Actividad 13: Calcular el promedio de los números en un array.
+
+function calcularPromedio (array) {
+  // Tu código aquí
+}
+
+module.exports = {
+  calcularPromedio
+};
